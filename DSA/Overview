@@ -1,0 +1,19 @@
+# DATA STRUCTURE #
+
+1. PRIMITIVE
+
+2. NON-PRIMITIVE
+    2.1 LINEAR
+        2.1.1 STATIC
+            2.1.1.1 ARRAYS
+
+        2.1.2 DYNAMIC
+            2.1.2.1 VECTOR
+            2.1.2.2 LINKED LIST
+            2.1.2.3 STACK
+            2.1.2.4 QUEUE
+
+    2.2 NON-LINEAR
+        2.2.1 TREE
+        2.2.2 GRAPH
+        2.2.3 TABLE/SET 

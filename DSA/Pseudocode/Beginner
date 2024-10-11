@@ -1,0 +1,56 @@
+# AREA OF SQUARE
+
+1. Start
+2. Input side of square in variable A
+3. Set Area = A\*A
+4. Print Area
+5. Exit
+
+# MINIMUM OF 2 NUMBERS
+
+1. Start
+2. Input Number1 and Number2
+3. check if Number1>Number2
+   3.1 yes, Print "Number2 is Minimum"
+   3.2 else Print "Number1 is Minimum"
+4. Exit
+
+# IS NUMBER ODD OR EVEN
+
+1. Start
+2. Input Number
+3. Check if Number%2 == 0 (% is modulo operater
+   returns Remainder)
+   3.1 yes, print "Even"
+   3.2 else print "Odd"
+4. Exit
+
+# SUM OF NUMBERS FROM 1 TO N
+
+1. Start
+2. Input N
+3. set sum = 0
+4. set i=1
+5. while i<=N
+   5.1 set sum= sum + i
+   5.2 set i=i+1
+6. print sum
+7. Exit
+
+Direct Formula To calculate sum= (N \* (N+1))/2
+
+# IS NUMBER PRIME OR NOT
+
+1. Start
+2. Input Number
+3. set bool Isprime = true
+4. set i=2
+5. while i <= Number-1
+   4.1 if Number % i == 0
+   4.1.1 set Isprime = false
+   4.1.2 break
+   4.2 i++
+6. if Isprime == true
+   5.1 print "Prime"
+   5.2 else "Non Prime"
+7. Exit
