@@ -1,0 +1,66 @@
+# BOILER PLATE CODE #
+#include<iostream>
+using namespace std;
+
+int main(){
+    
+    return 0;
+}
+
+# NEXT LINE COMMANDS #
+1. <<endl
+2. /n (faster)
+
+# KEYWORDS #
+1. special reserved words
+
+# VARIABLES #
+1. Identifier
+2. container to store data
+3. starting- a-z , A-z , _
+
+# DATATYPES - PRIMITIVE #
+1. int - 4 Bytes
+2. char - 1 Byte (ASCII VALUE- A(65) a(97) )
+3. double - 8 Bytes
+4. float - 4 Bytes f
+5. bool - 1 Byte
+
+ASCII - American Standard Code for Information Interchange
+
+# TYPE CASTING/CONVERSION #
+1. Converting data from one type to another
+2. Conversion - Implicit (Small -> Big)
+3. Casting - Explicit (Big -> Small)
+    3.1 double price = 100.99 ; 
+    3.2 int newprice = (int)price ;
+
+# INPUT/OUTPUT #
+1. Cin (Input)
+2. Cout (Output)
+3. << , >> (Overloading Operators - Global Objects)
+
+# BINARY OPERATORS #
+1. Arithmetic (+ , - , * , / , %)
+2. Relational (< , > , == , <= , >= , !=)
+3. Logical (|| , && , !)
+4. Bitwise  
+
+# UNARY OPERATORS #
+1. Increment (++) - POST AND PRE
+2. Decrement (--) - POST AND PRE
+
+# CONDITIONAL STATEMENTS #
+1. if-else
+2. if-else if-else
+3. ternary statement: condition ? statement1 : statement2; 
+
+# LOOPS #
+1. while(condition){----updation}
+2. for(initialize ; condition ; updation){}
+3. do{----} while(condition); 
+
+//use camelCase Convention
+
+  
+
