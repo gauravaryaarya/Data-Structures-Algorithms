@@ -58,9 +58,23 @@ ASCII - American Standard Code for Information Interchange
 # LOOPS #
 1. while(condition){----updation}
 2. for(initialize ; condition ; updation){}
-3. do{----} while(condition); 
+3. do{----updation} while(condition); 
 
 //use camelCase Convention
 
-  
+# NESTED LOOPS #
+1. for(){
+    for(){
+
+    }
+}
+2. while(){
+    for(){
+
+    }
+}
+// Any Combination works 
+// Used genrally for patterns
+// outer loop - lines
+// inner loop - each line task
 
