@@ -78,3 +78,28 @@ ASCII - American Standard Code for Information Interchange
 // outer loop - lines
 // inner loop - each line task
 
+# FUNCTIONS #
+1. function definition 
+
+    returnType functionName (parameters){
+        code of lines
+        return;
+    }
+
+2. function call
+    functionName(arguments);    
+
+3. removes code redundnacy
+
+    //Refer function.cpp file
+
+4. function in memory
+    memory- stack(static allocation)
+            heap (dynamic allocation)
+    main function called by compiler
+    stored in call stack and creates stack frame
+    main function call other function and brings it to stack at top
+    function performs task and is popped
+
+# PASS BY VALUE #    
+1. copy of argument is passed to function
