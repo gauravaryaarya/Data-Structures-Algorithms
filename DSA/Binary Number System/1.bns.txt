@@ -1,0 +1,35 @@
+MATH : Decimal Number System 10 digit (0 to 9) (Base 10)
+COMPUTER : Binary Number System (0/1) (Base 2)
+OTHER : 1. Hexadecimal (Base 16)
+        2. Octal (Base 8)
+
+# DECIMAL TO BINARY #
+1. repeated division with 2    
+2.  0- 0000
+    1- 0001
+    2- 0010
+    3- 0011
+    4- 0100
+    5- 0101
+    6- 0110
+    7- 0111
+    8- 1000
+    9- 1001
+    10-1010  
+
+# BINARY TO DECIMAL #
+1. start multiplying the lastdigit with pow(2,0)
+2. then second last digit pow(2,1)
+3. and so on
+4. sum up all the answers = decimal value    
+
+# ADDITION IN BINARY NUMBERS #
+1. 0 + 0 = 0
+2. 0 + 1 = 1
+3. 1 + 0 = 1
+4. 1 + 1 = 10
+
+# TWO'S COMPLEMENT #
+1. use to store negative numbers
+2. first calculate ONE'S COMPLEMENT (Converting 0 to 1 and 1 to 0)
+3. Then add 1
