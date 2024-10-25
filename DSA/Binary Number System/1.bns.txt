@@ -31,5 +31,13 @@ OTHER : 1. Hexadecimal (Base 16)
 
 # TWO'S COMPLEMENT #
 1. use to store negative numbers
-2. first calculate ONE'S COMPLEMENT (Converting 0 to 1 and 1 to 0)
-3. Then add 1
+2. Add MSB
+3. first calculate ONE'S COMPLEMENT (Converting 0s to 1 and 1s to 0)
+4. Then add 1
+
+5. MSB (Most Significant Bit)
+    0- Positive Number
+    1- Negative Number
+
+* To get back the number - again 2s compliment
+

@@ -1,0 +1,9 @@
+OPERATORS       |    PRECEDENCE    |   ASSOCIATIVITY
+! + - (Unary)   |     FIRST        |      R to L
+* / %           |     SECOND       |      L TO R
++ -             |     THIRD        |      L TO R
+< <= >= >       |     FOURTH       |      L TO R
+== !=           |     FIFTH        |      L to R
+&&              |     SIXTH        |      L to R
+||              |     SEVENTH      |      L to R
+= (assingment)  |     LAST         |      R to L

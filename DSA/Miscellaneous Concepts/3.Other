@@ -1,0 +1,16 @@
+# SCOPE #
+1. for varibales to be accessed
+2.  LOCAL - UNDER if-else
+                  Loops  
+                  functions
+                  block of code {}  
+
+    GLOBAL - can be used everywhere in code
+
+# DATA TYPE MODIFIER #
+-change meaning of datatypes
+1. long
+2. short
+3. long long
+4. signed
+5. unsigned

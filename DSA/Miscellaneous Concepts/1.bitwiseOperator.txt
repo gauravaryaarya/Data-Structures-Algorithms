@@ -1,0 +1,22 @@
+# BITWISE OPERATORS #
+1. perform operations on binary form of number
+
+1. Bitwise & (AND)
+    0 & 0 = 0
+    0 & 1 = 0
+    1 & 0 = 0
+    1 & 1 = 1
+2. Bitwise | (OR)
+    0 | 0 = 0
+    0 | 1 = 1
+    1 | 0 = 1
+    1 | 1 = 1
+3. Bitwise ^ (XOR) - Exclusive OR  
+    0 ^ 0 = 0
+    0 ^ 1 = 1
+    1 ^ 0 = 1
+    1 ^ 1 = 0
+4. Bitwise << (LEFT SHIFT OPERATOR)
+    a << b => a*pow(2,b)
+5. Bitwise >> (RIGHT SHIFT OPERATOR)
+    a >> b => a/pow(2,b)
