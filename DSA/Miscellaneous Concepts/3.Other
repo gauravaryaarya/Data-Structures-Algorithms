@@ -12,5 +12,6 @@
 1. long
 2. short
 3. long long
-4. signed
+
+4. signed (default)
 5. unsigned

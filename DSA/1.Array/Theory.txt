@@ -1,0 +1,21 @@
+//ARRAY
+1st Data Structure
+non-primitive
+Data Structure -> Store Data
+Operations on DS -> ALGORITHMS
+
+* Same type of datatypes
+* contiguos memory
+* same name for all spaces vary with index
+* index start from 0 to size-1
+
+//SYNTAX
+int marks[5];
+int mark[]= {12,100,12};
+
+//size of ARRAY
+sizeofarray = sizeof(arrayname)/sizeof(datatype)
+
+//PASS BY REFRENCE
+passing addresss - changes at both places
+array is default passed as refrence
