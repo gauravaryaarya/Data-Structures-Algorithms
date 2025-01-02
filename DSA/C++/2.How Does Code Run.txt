@@ -1,5 +1,7 @@
 1. file name - Code.cpp
 2. compiler compiles- (g++ -o code code.cpp)
-3. Code.exe/Code.out (run Executable file)- (./a.exe)
+3. Code.exe (windows) / Code.out (MAC) (run Executable file)- (./a.exe)
 
-Together Command- g++ -o code code.cpp && code.exe
+Together Command 
+    Windows: g++ -o code code.cpp && code.exe
+    Mac: g++ -o code.cpp && ./a.out

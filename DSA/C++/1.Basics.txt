@@ -7,7 +7,7 @@ using namespace std;
 
 //Main Function
 int main(){
-    
+    //code
     return 0;
 }
 
