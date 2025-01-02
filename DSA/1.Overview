@@ -17,3 +17,16 @@
         2.2.1 TREE
         2.2.2 GRAPH
         2.2.3 TABLE/SET 
+
+Flowchart : Diagram of a Solution
+    1. Start/exit - Oval
+    2. Input/Output - parellelogram
+    3. Process - Rectangle
+    4. Flow - Arrows
+    5. Decision Block - Diamond
+
+Pseudocode : General Logic of Solution  
+
+How does code run?
+1. language (C++) -> converted to 0/1 through translator (C++ Compiler : MinGW Installation)
+2. executable file -> Runs

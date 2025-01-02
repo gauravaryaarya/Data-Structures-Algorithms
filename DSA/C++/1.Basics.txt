@@ -1,7 +1,11 @@
+C++ (Case sensitive)
+Extension : .cpp
+
 # BOILER PLATE CODE #
-#include<iostream>
+#include<iostream> //Pre-Processor directive
 using namespace std;
 
+//Main Function
 int main(){
     
     return 0;
