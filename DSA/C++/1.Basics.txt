@@ -64,6 +64,10 @@ ASCII - American Standard Code for Information Interchange
 2. for(initialize ; condition ; updation){}
 3. do{----updation} while(condition); 
 
+#Loop statements#
+1. break;
+2. continue;
+ 
 //use camelCase Convention
 
 # NESTED LOOPS #
